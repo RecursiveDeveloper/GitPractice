@@ -1,0 +1,1 @@
+const greeting = () => alert("Hi everyone");
